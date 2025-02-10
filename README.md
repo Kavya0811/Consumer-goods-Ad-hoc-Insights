@@ -1,7 +1,7 @@
 # Consumer goods-Ad-hoc-Insights
 In this project, I conducted an in-depth data analysis for Atliq Hardware, a leading hardware manufacturing company. The goal was to deliver valuable insights that would aid in data-driven decision-making, addressing the demands of their growing analytics team.
 
-Link to [Presentation Link](https://docs.google.com/presentation/d/1rtqK0u1yklq_YB1CJK40Ka_aESLS9cHi/edit?usp=drivesdk&ouid=104262411711964904988&rtpof=true&sd=true)
+[Presentation Link](https://docs.google.com/presentation/d/1rtqK0u1yklq_YB1CJK40Ka_aESLS9cHi/edit?usp=drivesdk&ouid=104262411711964904988&rtpof=true&sd=true)
 # Tools Used
 For this project, I utilized a robust set of tools to maximize the effectiveness of analysis and presentation:
 
